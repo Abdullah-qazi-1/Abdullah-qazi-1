@@ -1,85 +1,80 @@
-<!-- Typing SVG Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1A5276&center=true&vCenter=true&width=600&lines=Abdullah+Qazi;Data+Science+Student;Machine+Learning+Engineer;Building+Real-World+ML+Systems" alt="Typing SVG" />
-</p>
+# Hi, I'm Abdullah 👋
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Air%20University-Islamabad-1A5276?style=flat-square" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-2ECC71?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-End--to--End%20ML-E74C3C?style=flat-square" />
-</p>
+**Data Science Student | ML Engineer in Progress | Python · FastAPI · AWS · Docker**
+
+I build end-to-end machine learning systems — from raw data ingestion to cloud-deployed REST APIs. Passionate about MLOps, production-grade pipelines, and turning messy data into actionable insights.
 
 ---
 
-```python
-class Abdullah:
-    def __init__(self):
-        self.name        = "Abdullah Qazi"
-        self.degree      = "BS Data Science @ Air University (4th Semester)"
-        self.location    = "Islamabad, Pakistan"
-        self.email       = "abdullahizaq321@gmail.com"
-        self.interests   = ["Machine Learning", "Data Engineering", "MLOps", "NLP"]
-        self.currently   = "Studying Deep Learning & NLP — 50% through bootcamp"
-        self.goal        = "Build ML systems that work in the real world, not just Jupyter"
+## 🚀 What I'm Working On
 
-    def skills(self):
-        return {
-            "languages"  : ["Python", "SQL", "R"],
-            "ml_stack"   : ["Scikit-learn", "Pandas", "NumPy", "Matplotlib", "Seaborn"],
-            "frameworks" : ["Flask", "FastAPI", "Streamlit"],
-            "deployment" : ["AWS Elastic Beanstalk", "Git", "GitHub"],
-        }
-
-    def contact(self):
-        print(f"Reach me at {self.email}")
-```
+- 🔭 Building and deploying ML pipelines with **FastAPI**, **Flask**, **Docker**, and **AWS**
+- 🧠 Deepening expertise in **MLOps**, **CI/CD automation**, and **cloud infrastructure**
+- 📚 Currently completing a **Data Science, ML, Deep Learning & NLP Bootcamp**
 
 ---
 
-### What I Build
+## 🛠️ Tech Stack
 
-| Project | What It Does | Stack | Link |
-|---------|-------------|-------|------|
-| **Student Exam Performance Predictor** | End-to-end ML pipeline — EDA, training, Flask API, deployed to AWS | Python · Scikit-learn · Flask · AWS EB | [View Repo](https://github.com/Abdullah-qazi-1) |
-| **Olympic Data Analysis Dashboard** | Interactive EDA dashboard exploring 120 years of Olympic history | Python · Pandas · Streamlit · Seaborn | [View Repo](https://github.com/Abdullah-qazi-1) |
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 
----
+**ML & Data**
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat&logoColor=white)
 
-### GitHub at a Glance
+**Frameworks & APIs**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-qazi-1&show_icons=true&theme=default&hide_border=true&title_color=1A5276&icon_color=1A5276&text_color=333333" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-qazi-1&layout=compact&hide_border=true&title_color=1A5276&text_color=333333" width="38%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abdullah-qazi-1&theme=default&hide_border=true&ring=1A5276&fire=E74C3C&currStreakLabel=1A5276" width="50%" />
-</p>
-
----
-
-### Currently Learning
-
-```
-Deep Learning                ████████░░░░  65%
-Natural Language Processing  █████░░░░░░░  40%
-MLOps & Cloud Deployment     ███████░░░░░  55%
-```
+**DevOps & Cloud**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ---
 
-### Connect
+## 📂 Featured Projects
 
-<p>
-  <a href="https://www.linkedin.com/in/abdullah1datascientist/">
-    <img src="https://img.shields.io/badge/LinkedIn-Abdullah%20Qazi-0077B5?style=flat-square&logo=linkedin" />
-  </a>
-  &nbsp;
-  <a href="mailto:abdullahizaq321@gmail.com">
-    <img src="https://img.shields.io/badge/Email-abdullahizaq321%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
+### 🔹 [Job Scraper with CI/CD Pipeline](https://github.com/Abdullah-qazi-1/job-scraper)
+> FastAPI · Docker · AWS EC2 · AWS ECR · GitHub Actions
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Abdullah-qazi-1&color=1A5276&style=flat-square&label=Profile+Views" />
-</p>
+Production-ready job scraper for Data Science listings from Rozee.pk. Containerized with Docker, images pushed to AWS ECR, deployed on AWS EC2 — fully automated via GitHub Actions CI/CD pipeline.
+
+---
+
+### 🔹 [MLOps Pipeline](https://github.com/Abdullah-qazi-1/ml-cicd-aws-deployment)
+> Python · Scikit-learn · XGBoost · CatBoost · Flask · AWS Elastic Beanstalk · GitHub Actions
+
+End-to-end MLOps pipeline with modular components (`DataIngestion` → `DataTransformation` → `ModelTrainer` → `PredictionPipeline`). Benchmarked 7+ regression algorithms, served best model via Flask REST API, deployed to AWS Elastic Beanstalk with full CI/CD.
+
+---
+
+### 🔹 [Network Intrusion Detection System](https://github.com/Abdullah-qazi-1/Network-Security)
+> Python · Scikit-learn · MySQL · Docker · AWS ECR · GitHub Actions
+
+ML-based network intrusion detection system. Ingests raw network traffic data from MySQL, runs classification pipeline to detect anomalies, containerized with Docker, and deployed via automated CI/CD.
+
+---
+
+## 📊 GitHub Stats
+
+![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdullah-qazi-1&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-qazi-1&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul1ahdatascientist/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abdullahizaq321@gmail.com)
+
+---
+
+*"Data is the new oil — I'm here to refine it."* ⚡
