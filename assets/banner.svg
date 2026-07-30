@@ -26,7 +26,7 @@
 
   <!-- photo ring + photo -->
   <circle cx="110" cy="150" r="76" fill="none" stroke="url(#borderGrad)" stroke-width="3" filter="url(#glow)"/>
-  <image href="https://raw.githubusercontent.com/Abdullah-qazi-1/Abdullah-qazi-1/main/assets/profile.png"
+  <image href="https://raw.githubusercontent.com/Abdullah-qazi-1/Abdullah-qazi-1/main/assets/profile.png?v=2"
          x="34" y="74" width="152" height="152" clip-path="url(#circleClip)" preserveAspectRatio="xMidYMid slice"/>
 
   <!-- name -->
@@ -58,14 +58,14 @@
     <text x="236" y="207">linkedin.com/in/abdullah1datascientist</text>
   </g>
 
-  <!-- achievement badges -->
-  <g font-family="Consolas, monospace" font-size="12" fill="#e6e6e6">
-    <circle cx="235" cy="235" r="14" fill="#1c1f33" stroke="#ffcc00" stroke-width="1.5"/>
-    <text x="235" y="240" text-anchor="middle" font-size="14">🏆</text>
-    <circle cx="270" cy="235" r="14" fill="#1c1f33" stroke="#00fff2" stroke-width="1.5"/>
-    <text x="270" y="240" text-anchor="middle" font-size="14">⭐</text>
-    <circle cx="305" cy="235" r="14" fill="#1c1f33" stroke="#ff2e88" stroke-width="1.5"/>
-    <text x="305" y="240" text-anchor="middle" font-size="14">🔥</text>
+  <!-- status badges -->
+  <g font-family="Consolas, monospace" font-size="10" font-weight="700">
+    <rect x="220" y="225" width="66" height="20" rx="4" fill="#1c1f33" stroke="#ffcc00" stroke-width="1"/>
+    <text x="253" y="238" text-anchor="middle" fill="#ffcc00">4+ PROJECTS</text>
+    <rect x="292" y="225" width="60" height="20" rx="4" fill="#1c1f33" stroke="#00fff2" stroke-width="1"/>
+    <text x="322" y="238" text-anchor="middle" fill="#00fff2">94% F1</text>
+    <rect x="358" y="225" width="60" height="20" rx="4" fill="#1c1f33" stroke="#ff2e88" stroke-width="1"/>
+    <text x="388" y="238" text-anchor="middle" fill="#ff2e88">0.97 R2</text>
   </g>
 
   <!-- terminal box -->
