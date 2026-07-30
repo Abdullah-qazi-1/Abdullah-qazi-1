@@ -59,6 +59,10 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-qazi-1&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0b0d16&title_color=00fff2&icon_color=b967ff" height="165" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-qazi-1&theme=radical&hide_border=true&background=0b0d16&ring=00fff2&fire=ff2e88&currStreakLabel=00fff2" height="165" />
 
+<br/><br/>
+
+<img src="https://ghchart.rshah.org/00fff2/Abdullah-qazi-1" width="100%" alt="Abdullah's contribution graph" />
+
 </div>
 
 <br/>
