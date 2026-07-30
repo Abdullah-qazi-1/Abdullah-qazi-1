@@ -59,10 +59,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-qazi-1&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0b0d16&title_color=00fff2&icon_color=b967ff" height="165" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-qazi-1&theme=radical&hide_border=true&background=0b0d16&ring=00fff2&fire=ff2e88&currStreakLabel=00fff2" height="165" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-qazi-1&layout=compact&theme=radical&hide_border=true&bg_color=0b0d16&title_color=00fff2" height="165" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Abdullah-qazi-1&theme=radical&no-frame=true&row=1&column=6" />
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdullah-qazi-1&theme=react-dark&hide_border=true&bg_color=0b0d16&color=00fff2&line=b967ff&point=ff2e88" width="100%" />
 
 </div>
