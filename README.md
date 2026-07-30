@@ -61,7 +61,7 @@
 
 <br/><br/>
 
-<img src="https://ghchart.rshah.org/00fff2/Abdullah-qazi-1" width="100%" alt="Abdullah's contribution graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdullah-qazi-1&theme=react-dark&hide_border=true&bg_color=0b0d16&color=00fff2&line=b967ff&point=ff2e88&hide_title=false" width="100%" alt="Abdullah's contribution graph" />
 
 </div>
 
