@@ -27,7 +27,7 @@
   <!-- photo ring + photo -->
   <circle cx="110" cy="150" r="76" fill="none" stroke="url(#borderGrad)" stroke-width="3" filter="url(#glow)"/>
   <image href="https://raw.githubusercontent.com/Abdullah-qazi-1/Abdullah-qazi-1/main/assets/profile.png"
-         x="40" y="80" width="140" height="140" clip-path="url(#circleClip)" preserveAspectRatio="xMidYMid slice"/>
+         x="34" y="74" width="152" height="152" clip-path="url(#circleClip)" preserveAspectRatio="xMidYMid slice"/>
 
   <!-- name -->
   <text x="220" y="105" font-family="Consolas, 'Courier New', monospace" font-size="32" font-weight="700" fill="#ffffff">Abdullah</text>
